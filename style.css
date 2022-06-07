@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-color: #009dff;
+    text-align: center;
+}
+header{
+    background-color: #003a5e;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 6px solid rgb(48, 48, 48);
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12),
+                0  6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.col{
+    background-color: #003a5e;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-size: 22px;
+    border-radius: 5px;
+    border-bottom: 5px solid rgb(48, 48, 48);
+}
+.btn-primary{
+    background-color: #009dff;
+    font-size: 20px;
+    border: none;
+}
+.Predicit{
+    font-size: 25px;
+}
+.camera{
+    margin-bottom: 10px;
+}
